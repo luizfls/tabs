@@ -1,0 +1,70 @@
+Album: Milton Nascimento (1970)
+
+Eb7M(9)  A7(#5)  [Dm7M(9)  Dm7(9)]  [G(4/7/13)  G7(13)]
+         A... felicidade é como a pluma
+[Cm7M(9)  Cm7(9)]  [F(4/7/13)  F7(13)]  Bm7  Eb(4/7/9)
+   Que o vento... vai levando pelo ar...
+Ab7+    Gm7
+   Voa tão leve
+Cm7(4)          Db7(9)
+  Mas tem a vida breve
+Ab+*             Gm7         Fm7   Bbm7*
+Precisa que haja vento sem parar
+
+
+Eb7M(9)  Fm6/Ab          Eb7M(9)  % [alternate bass]
+   A felicidade do pobre parece
+[C7(#9)  Bm7(b5/9)]  [Bbm7  Eb(4/7/9)]  A7(#5)  Ab7+
+A grande ilusão do carnaval
+Bb(4/7/9)  Bb(#11/7/b9)    Gm7   Cm7(9)
+A gente trabalha o ano inteiro
+Am7(9)   [Am7(b5)    D7(b9)]
+Por um momento de sonho
+  [Gm7M    C7(b9)]  [Gbm7   Abm6]
+Pra fazer a fantasia
+[Cm7(4)  Cm7(4)/G]  Cm7(4)    5x35xx  4x34xx
+De rei ou de pirata ou jardineira
+Ab7+*   Gm7             Fm7     Bbm7*
+pra tudo se acabar na quarta feira
+
+
+Eb7M(9)  A7(#5)  [Dm7M(9)  Dm7(9)]  [G(4/7/13)  G7(13) G7(b13)]
+      A felicidade é como a gota
+[Cm7M(9)  Cm7(9)]   [F(4/7/13)  F7(13)]  Bm7  Eb(4/7/9)
+  De orvalho numa pétala de flor
+Ab7+      Gm7
+   Brilha tranquila
+Cm7(4)            Db7(9)
+Depois de leve oscila
+   Ab7+*    Gm7
+E cai como uma lágrima 
+Fm7      Gm7
+Cai como uma lágrima
+Ab7+*    Gm7
+Cai como uma lágrima
+Fm7      Gm7
+Cai como uma lágrima
+Ab7+*     Gm7         Fm7     Bbm7
+Cai como uma lágrima de amor
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Shapes:
+
+Eb7M(9)       x6576x                    Fm7           1x111x
+A7(#5)        5x566x                    Bbm7*         x1312x
+Dm7M(9)       x5365x                    Fm6/Ab        4x353x
+Dm7(9)        x5355x                    C7(#9)        x3234x
+G(4/7/13)     3x355x                    Bm7(b5/9)     x2322x
+G7(13)        3x345x                    Bbm7          x1x121
+Cm7M(9)       x3143x                    Bb(4/7/9)     6x654x
+Cm7(9)        x3133x                    Bb(#11/7/b9)  6x645x
+F(4/7/13)     1x133x                    Am7(9)        5x550x
+F7(13)        1x123x                    Am7(b5)       5x554x
+Bm7           x2x232                    D7(b9)        x5454x
+Eb(4/7/9)     xx1121                    Gm7M          3x433x
+Ab7+          4x554x                    C7(b9)        x3232x
+Gm7           3x333x                    Gbm7          2x222x
+Cm7(4)        x3334x                    Abm6          4x344x
+Db7(9)        x4344x                    Cm7(4)/G      333343
+Ab7+*         4xx543                    G7(b13)       3x344x
