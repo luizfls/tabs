@@ -1,0 +1,57 @@
+Album: Miúcha & Tom Jobim (1979)
+
+Intro: Cm7* [F#7 B7] Bb7+* % Gm7 % % % % % % %
+
+F#° % Gm % F#° % Fm6 E7
+Eb7+(9) D7(b9) Gm* Gm/F A7/E % Cm6/Eb D7
+F#° % Gm % F#° % Fm6 E7
+Eb7+(9) D7(b9) Gm* Gm/F A7/E [Cm6/Eb D7] Db7(9) %
+
+Cm7 F7(#5) Bb7+ Bb6
+Cm7 Bm7(b5/9) Bb7+ Bb6
+A7(13) A7(b13) Dm7+(9) Dm7
+Em7(9) Bbm6
+
+    [Baixaria 1]
+    D|--1-0------
+    A|------1----
+    E|--------2--
+
+F#° % Gm % F#° % Fm6 E7
+Eb7+(9) D7(b9) Gm* Gm/F A7/E [Cm6/Eb D7] Db7(9) %
+
+Cm7 F7(#5) Bb7+ Bb6
+Cm7 Bm7(b5/9) Bb7+ Bb6
+A7(13) A7(b13) Dm7+(9) Dm7
+Em7(9) Bbm6
+
+    [Baixaria 2]
+    D|--0--------
+    A|----3-1----
+    E|--------2--
+
+F#° % Gm % F#° % Fm6 E7
+Eb7+(9) D7(b9) Gm* Gm/F A7/E [Cm6/Eb D7] Gm
+
+Outro: A7(b13) D7(9) Eb7+ Cm7 G
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Shapes:
+
+Cm7*          x35343                    Db7(9)        x4344x
+F#7           2x235x                    Cm7           x3534x
+B7            x2424x                    F7(#5)        1x122x
+Bb7+*         x13231                    Bb7+          x1323x
+Gm7           3xx331                    Bb6           x1303x
+F#°           2x121x                    Bm7(b5/9)     x2322x
+Gm            3x033x                    A7(13)        x0x022
+Fm6           1x013x                    A7(b13)       x0x021
+E7            0x013x                    Dm7+(9)       xx0220
+Eb7+(9)       x6576x                    Dm7           xx0211
+D7(b9)        x5454x                    Em7(9)        02x032
+Gm*           xx5333                    Bbm6          x1x021
+Gm/F          xx3333                    D7(9)         x5455x
+A7/E          xx202x                    Eb7+          x6533x
+Cm6/Eb        xx1213                    G             3x0003
+D7            xx0212
