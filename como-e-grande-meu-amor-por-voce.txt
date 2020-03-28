@@ -1,0 +1,33 @@
+Album version (1967)
+
+tuning:
+Eb Ab Db Gb Bb eb
+
+intro:
+C [D7 D7(4) D7] [G G4] Em
+
+1st part:                2nd part:
+Am7 D7 G Bm7             Am7 D7 G Bm7
+Am7 D7 [G G4] G          Am7 D7 [G G4] G
+
+Am7 D7 G Bm7             Am7 D7 G Bm7
+Am7 D7 [G G4] G          Am7 D7 [G G4] G
+
+Am7 D7 G Em              Am7 D7 G Bm7
+Am7 D7 [G G4] G          Am7 D7 [G G4] G
+
+Am7 D7 G Em              Am7 D7 G Bm7
+A7 % [D7 D7(4)] D7       Am7 D7 [G G4] G
+
+final:
+Am7 D7 N.C. G7+
+
+-=-=-=-=-=-=-=-=-=-
+
+C      x32010    Em     022000
+D7     xx0212    Am7    x02010
+D7(4)  xx0213    Bm7    x24232
+G      3x0003    A7     x02020
+G4     3x0013    G7+    3x5432
+
+N.C. = no chord
