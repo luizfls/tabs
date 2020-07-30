@@ -1,0 +1,76 @@
+Gonzaguinha - É
+Cf. https://youtu.be/l3BW5DBSA0k?t=89
+
+[C7M C7M(#5)] [C7M(6) C7M(#5)]
+
+ [C7M C7M(#5)]
+É...
+ [C7M(6)       C7M(#5)]     [C7M C7M(#5)]
+a gente quer valer o nosso amor
+ [C7M(6)    C7M(#5)]         [Dm7 Dm7(#5)]
+a gente quer valer nosso suor
+ [Dm7(6)     Dm7(#5)]         [Dm7 Dm7(#5)]
+a gente quer valer o nosso humor
+ [Dm7(6)       Dm7(#5)]    Gm7
+a gente quer do bom e do melhor
+ Gm6                       Gm7
+a gente quer carinho e atenção
+ Gm6                     F7M
+a gente quer calor no coração
+ F6                       F#m7(b5)
+a gente quer suar mas de prazer
+ B7(13)                    E7M
+a gente quer é ter muita saúde
+ [Fm7(b5)       Bb7(13)]     Eb7M
+a gente quer viver a liberdade
+ [Em7(b5)      A7(13)]    D7M
+a gente quer viver felicidade
+ [Am7(9) Am6(9)]
+
+ G7M
+É...
+ C7(9)                     A6
+a gente não tem cara de panaca
+ Ab7(#11)                   G7M
+a gente não tem jeito de babaca
+ C7(9)                           B7(9)
+a gente não está com a bunda exposta na janela
+             %
+pra passar a mão nela!!
+
+ Em7
+É...
+ [Em7(b5)       A7(13)]     D7M
+a gente quer viver pleno direito
+ [Ebm7(b5)      Ab7(13)]     E7M(9)
+a gente quer é ter todo respeito
+ G7(9)(13)                 F#m7(11)
+a gente quer viver uma nação
+ Em7(9)                   F#m7(11)
+a gente quer é ser um cidadão
+ Em7(9)                 F#m7(11)
+a gente quer viver uma nação
+ F    F(#5)     F(6)     F(#5)     F    F(#5)     F(6)     F(#5)
+É,      é,       é,       é,       é,      é,      é,          é
+...
+Dm(add9)/A
+
+C7M       x32000              Am7(9)      x05500
+C7M(#5)   x32100              Am6(9)      x04500
+C7M(6)    x32200              G7M         3x443x
+Dm7       xx0211              C7(9)       x3233x
+Dm7(#5)   xx0311              A6          5x465x
+Dm7(6)    xx0411              Ab7(#11)    4x453x
+Gm7       3x333x              B7(9)       x2122x
+Gm6       3x233x              Em7         x7978x
+F7M       1x221x              Ebm7(b5)    x6767x
+F6        1x021x              Ab7(13)     4x456x
+F#m7(b5)  x910910x            E7M(9)      x7687x
+B7(13)    7x789x              G7(9)(13)   3x3200
+E7M       x7989x              F#m7(11)    2x2200
+Fm7(b5)   x8989x              Em7(9)      0xx032
+Bb7(13)   6x678x              F           xx321x
+Eb7M      x6878x              F(#5)       xx322x
+Em7(b5)   x7878x              F(6)        xx323x
+A7(13)    5x567x              Dm(add9)/A  x03230
+D7M       x5767x
