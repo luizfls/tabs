@@ -1,0 +1,73 @@
+Lô Borges, Caetano Veloso (1996)
+
+Cf.
+https://youtu.be/nOjbD-PwQZ0
+https://youtu.be/MGL205Y4wwk?t=307 (½ tom abaixo)
+https://youtu.be/LpUswVJZEAM?t=2505
+https://youtu.be/A4BwTz5enVQ
+https://youtu.be/hftpBMFy4uE
+
+Intro
+x1313x
+(3)32033   %
+(3)34032   %
+(2)04232   %   *polegar
+x03210
+x1313x
+
+Fig. 1
+[x32203 3x2203]
+[xx1202 2xx202]
+[xx0211 x0x211]
+[xx3554 xx3534]
+[x32203 3x2203]
+[xx1202 2xx202]
+[xx0211 x0x211]
+4x243(0)
+
+Fig. 2
+[x0x988 x7x988]
+[x0x787 x7x787]
+[0xx685 5xx685]
+[xx0565 xx0560]
+[x81079x 6x653x]
+[x71078x x0778x]
+x0353(5)
+x1313x
+
+Repete Fig. 1
+
+Fig. 3
+[x0x988 x7x988]
+[x0x787 x7x787]
+x07567
+4x243(0)
+x0353(5)
+x0575(7)
+x0353(5)
+x1313x
+
+Repete Fig. 1
+
+Fig. 4
+[x0x988 x7x988]
+[x0x787 x7x787]
+x07567
+4x243(0)
+3x222x
+2x021(2)
+1x211x
+x1011(0)
+[x02433 x02423]
+xx0211
+[xx3554 xx3534]
+6x653(3)
+
+Repete Intro
+Repete Fig. 1
+Repete Fig. 2
+Repete Fig. 1
+Repete Fig. 4
+Repete Intro
+
+X32232
