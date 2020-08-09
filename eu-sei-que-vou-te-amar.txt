@@ -1,0 +1,69 @@
+Eu sei que vou te amar (Caetano Veloso, 1978)
+Cf. https://youtu.be/0P2yvOK-acw
+
+Intro: G6  F6
+
+G6                   Eb°(b13)
+Eu sei que vou te amar
+                 Dm7               [ G7(4/9)
+Por toda a minha vida eu vou te amar
+    G7(b9) ]   Gm7            [ Gm6
+Em cada despedida eu vou te amar
+    1ª vez:
+   C7(9) ]       [ F7+  F6* ]    Fm6*
+  Desesperadamente, eu sei que vou te amar
+    2ª vez:
+   C7(9) ]         F7+           Fm6
+  Desesperadamente, eu sei que vou te amar
+
+  C/E  Eb°(b13)  Dm7  [ Dm6  G7 ]
+E cada verso meu será
+Em7(b5)  [ Bbm6  Bb° ]      Am6
+Prá te dizer que eu sei que vou te amar
+    Abm6
+Por toda minha vida
+
+
+G6                Eb°(b13)
+Eu sei que vou chorar
+                 Dm7               [ G7(4/9)
+A cada ausência tua eu vou chorar
+    G7(b9) ]   Gm7            [ Gm6
+Mas cada volta tua há de apagar
+ C7(9) ]       F7+       [ Fm6  Fm7+ ]
+O que esta ausência tua me causou
+
+   Em7            [ Eb°
+Eu sei que vou sofrer
+    1ª vez:
+    Eb°(b13) ]     Em7(b5)      A7
+  A eterna desventura de viver
+    2ª vez:
+    Eb°(b13) ]     Em7(b5)    [ [ Bbm6 A7(#5) ]  A7 ]
+  A eterna desventura de viver
+              Am6	    [ G#°sus(b13)
+A espera de viver ao lado teu
+ G#°(b13) ]       G6    F6
+Por toda minha vida
+
+G6  F6 ...
+
+#############################################
+
+       Acordes em ordem de aparição
+        Chords in order of appearance
+
+G6         3x243x        G7            3x343x
+F6         1x021x        Em7(b5)       x7878x
+Eb°(b13)   x6x577        Bbm6          6x566x
+Dm7        x5x565        Bb°           6x565x
+G7(4/9)    3x321x        Am6           5x455x
+G7(b9)     3x310x        Abm6          4x344x
+Gm7        3x333x        Fm6           1x011x
+Gm6        3x233x        Fm7+          1xx110
+C7(9)      x3233x        Em7           0x578x
+F7+        1xx210        Eb°           x6757x
+F6*        1xx023        A7            5x565x
+Fm6*       x8x798        G#°sus(b13)   4x355x
+C/E        x7x588        G#°(b13)      4x345x
+Dm6        x5x465        A7(#5)        5x566x
