@@ -1,0 +1,34 @@
+Arr. Moraes Moreira
+Cf. https://youtu.be/Mc3rmNqFCNY
+
+Intro: Am7 E7(#9) 2x
+
+Parte A: Am7 B7 F7+ E7/B Am7 E7
+         Am7 B7 Em7 Dm7 E7
+         Am7 B7 F7+ E7/B Bb° A7
+         Dm7 G7 C7+ F7 Bb7+(9) E7* A7+ E7*
+
+Parte B: A7+ Bb°* Bm Bm7+/F# Bm7 E7(9) D#° A7+
+         A7+ Bb°* Bm7 B7(9) F7+ E
+         A7+ B7* C#7 F#m7 Em7* A7*
+         D7+ Dm6 C#m7 F#7 B7(9) E7(9)
+         A7+ F#7 B7(9) E7(9)
+         A7+ F#7 B7(9) E7(9)
+         A7+ F#7 B7(9) E7(9)
+
+Transição: A7+ E5+
+
+                         ACORDES
+
+Am7     5x555x        F7      1x121x        E       022100
+E7(#9)  0x678x        Bb7+(9) x1021x        B7*     x2120x
+B7      7x787x        E7*     0xx130        C#7     x4340x
+F7+     x8755x        A7+     x02120        F#m7    2x222x
+E7/B    7x675x        Bb°*    x12020        Em7*    0x203x
+E7      07670x        Bm      x2x432        A7*     x0202x
+Em7     x7x787        Bm7+/F# 2xx332        D7+     x57675
+Dm7     x5x565        Bm7     x2x232        Dm6     x5x465
+Bb°     6x565x        E7(9)   0xx132        C#m7    x4x454
+A7      5x565x        D#°     xx1212        F#7     2x232x
+G7      3x343x        B7(9)   x2122x        E5+     0xx110
+C7+     x35453        F7+     1x221x
