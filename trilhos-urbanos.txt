@@ -1,0 +1,56 @@
+Caetano Veloso
+Trilhos Urbanos (1986)
+
+Cf.: https://youtu.be/xjinsoTG7xk
+
+  [Verse 1]                [Verse 5]
+x3x233 x3x232            x3x233 x3x232
+x3x233 x3x555            x3x233 x3x555
+x3x233 x3x232            x3x233 x3x232
+x0x010   %               x0x010 x0x013
+5x455x x5455x            x5455x 5x455x
+x4354x   %               x4354x 4x354x
+x3243x   %               x3243x   %
+   %     %                  %     %
+
+  [Verse 2]                [Verse 6]
+x3x233 x3x232            x3x233 x3x232
+x3x233 x3x555            x3x233 x3x555
+x3x233 x3x232            x3x233 x3x232
+x0x010   %               x0x010 x0x013
+5x455x x5455x            x5455x 5x455x
+x4354x   %               x4354x   %
+x3243x   %               x3243x   %
+   %     %                  %     %
+
+  [Verse 3]                [Verse 7]
+x6x566 x6x656            x6x566 x6x656
+x6x566 x6x888            x6x566 x6x888
+x6x566 x6x656            x6x566 x6x656
+x3x343   %               x3x343   %
+xx3243   %               xx3243   %
+xx2444   %               xx2444   %
+xx1333   %               xx1333   %
+   %     %                  %     %
+
+  [Verse 4]                [Verse 8]
+x3x233 x3x232            x3x233 x3x232
+x3x233 x3x555            x3x233 x3x555
+x3x233 x3x232            x3x233 x3x232
+x0x010   %               x0x010 x0x013
+5x455x x5455x            x5455x 5x455x
+x4354x   %               x4354x   %
+x3243x   %               x3243x   %
+   %     %                  %     %
+
+ [Interlude]              [Interlude]
+1x221x   %               1x221x   %
+0xx032   %               0xx032   %
+1x221x   %               1x221x   %
+0xx032   %               0xx032   %
+1x221x   %               1x221x   %
+0xx032 x0x023            0xx032 x0x023
+x5455x 5x455x            x5455x 5x455x
+3x343x   %               3x343x   %
+
+                         x32233~~
