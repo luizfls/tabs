@@ -1,0 +1,37 @@
+Verse 1:
+  xx4222
+  xx4442
+  xx6454
+  xx6654
+  xx7655
+  xx4222
+  xx4232
+  x21202
+
+Verse 2:
+  xx4222
+  xx4442
+  xx6454
+  xx6654
+  xx7655
+  xx9877
+  xx6454
+
+Chorus:
+  xx6654
+  xx6554
+  xx6454
+
+Solo:
+  x02223
+  022100
+  244222
+  x21202
+  022100
+
+Outro:
+  C#m @ 9th fret
+  E @ 12th fret
+  C#m @ 9th fret
+  E @ 12th fret
+  022100
