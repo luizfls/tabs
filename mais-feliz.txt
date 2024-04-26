@@ -1,0 +1,42 @@
+Cf. https://youtu.be/n4uSXnxXuVU
+
+Intro: [G7+ G7+(9)] [Cm7(9) Cm6(9)] 2x
+
+G7+                 Cm7(9)
+O nosso amor não vai parar de rolar
+ Eb7+(9)         [F7(4) F7+(9)]
+De fugir e seguir com um rio
+G7+                 Eb7+(9)
+Como uma pedra que divide o rio
+ Ab7+          [Am7 D7(b9)]
+Me diga coisas bonitas
+
+G7+                 Cm7(9)
+O nosso amor não vai olhar para trás
+ Eb7+(9)         [F7(4) F7+(9)]
+Desencantar nem ser tema de livro
+[G7+ G7+(9)]             Eb7+(9)
+A vida inteira eu quis um verso simples
+ Ab7+                  [Am7 D7(b9)]
+Pra transformar o que eu digo
+
+ Eb7+(9)
+Rimas fáceis, calafrios
+ Dsus               D7(b9)*
+Furo o dedo, faz um pacto comigo
+ Eb7+(9)
+Num segundo teu no meu
+ Dsus               D7(b9)*
+Por um segundo mais feliz
+
+Outro: [G7+ G7+(9)] [Cm7(9) Cm6(9)] ...
+
+-=-=-=-=-=-=-=-
+
+Acordes:
+G7+      3x443x          F7+(9)   1x201x
+G7+(9)   3x423x          Ab7+     4x554x
+Cm7(9)   x3133x          Am7      5x555x
+Cm6(9)   x3123x          D7(b9)   x5454x
+Eb7+(9)  x6576x          Dsus     AxA98x (A==10)
+F7(4)    1x131x          D7(b9)*  AxA87x (A==10)
